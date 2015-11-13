@@ -12,9 +12,9 @@
 	<integer>40</integer>
 	<key>fart</key>
 	<integer>28</integer>
-	<key>foot_left</key>
+	<key>footLeft</key>
 	<integer>30</integer>
-	<key>foot_right</key>
+	<key>footRight</key>
 	<integer>30</integer>
 	<key>knockout</key>
 	<integer>81</integer>
